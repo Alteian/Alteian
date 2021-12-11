@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Alteian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Python and databases
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... FB: /david.roucka
-
+- 👋 Hi, I am David Roučka
+- 👀 I’m interested in ... AI, modernization and games.
+- 🌱 I’m currently learning ... Python and databases.
+- 💞️ I’m looking to collaborate on ... Hit me up and let's see.
+- 📫 How to reach me ... davosroucka@gmail.com
